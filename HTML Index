@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Business ideas are hard to come by</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <header>
+        <h1>
+           I need an idea. 
+        </h1>
+         <nav>
+          <ul>
+                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#contact">Contact</a></li>
+          </ul>
+         </nav>
+    </header>
+        <main>
+            <section id="hero">
+                <div class="section-inner">
+                    <p>this is the hero section, something super engaging should go here</p>
+                </div>
+                
+            </section>
+            <section id="about">
+                <p>Featured content should go here, these side by sides produce the most conversions</p>
+            </section>
+            <section id="contact">
+                <p>Contact section, include instrucions for succe mon bite.</p>
+            </section>
+        </main>
+    </body>
+</html>
